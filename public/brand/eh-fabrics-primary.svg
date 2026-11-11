@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+  <title>E&amp;H Fabrics — primary logo</title>
+  <desc>Minimal luxury fashion wordmark in deep emerald and champagne gold.</desc>
+  <g text-anchor="middle">
+    <text x="800" y="300" font-family="GFS Didot, Didot, 'Times New Roman', serif" font-size="238" font-weight="400" letter-spacing="-9" fill="#123C32">
+      <tspan>E</tspan><tspan fill="#B99A62">&amp;</tspan><tspan>H</tspan>
+    </text>
+    <path d="M420 363 H690 M910 363 H1180" stroke="#B99A62" stroke-width="2" fill="none"/>
+    <path d="M800 352 L811 363 L800 374 L789 363 Z" fill="#B99A62"/>
+    <text x="800" y="455" font-family="Inter, 'Arial', sans-serif" font-size="66" font-weight="400" letter-spacing="22" fill="#123C32">FABRICS</text>
+    <text x="800" y="535" font-family="Inter, 'Arial', sans-serif" font-size="23" font-weight="500" letter-spacing="7" fill="#7D755F">WEAR ELEGANCE  •  LIVE IN STYLE</text>
+  </g>
+</svg>

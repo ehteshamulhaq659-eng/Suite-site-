@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>E&amp;H Fabrics — monogram icon</title>
+  <rect x="12" y="12" width="488" height="488" rx="28" fill="#123C32"/>
+  <rect x="32" y="32" width="448" height="448" rx="18" fill="none" stroke="#B99A62" stroke-width="3"/>
+  <text x="256" y="300" text-anchor="middle" font-family="GFS Didot, Didot, 'Times New Roman', serif" font-size="180" letter-spacing="-10" fill="#E5D0A6">E&amp;H</text>
+  <path d="M155 348 H357" stroke="#B99A62" stroke-width="3"/>
+  <path d="M256 337 L267 348 L256 359 L245 348 Z" fill="#B99A62"/>
+</svg>
