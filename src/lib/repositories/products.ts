@@ -17,7 +17,16 @@ export async function listProducts(options: { includeDrafts?: boolean } = {}): P
   const rows = options.includeDrafts
     ? await db.select().from(products).orderBy(desc(products.createdAt))
     : await db.select().from(products).where(eq(products.status, "active")).orderBy(desc(products.createdAt));
-  return rows.map((p) => ({ ...p, imageUrls: p.imageUrls ?? [], tags: p.tags ?? [], compareAtPrice: p.compareAtPrice ?? null, createdAt: p.createdAt.toISOString(), updatedAt: p.updatedAt.toISOString(), status: p.status as Product["status"] }));
+  return rows.map((p) => ({
+    ...p,
+    collection: p.collection ?? "",
+    imageUrls: p.imageUrls ?? [],
+    tags: p.tags ?? [],
+    compareAtPrice: p.compareAtPrice ?? null,
+    createdAt: p.createdAt.toISOString(),
+    updatedAt: p.updatedAt.toISOString(),
+    status: p.status as Product["status"],
+  }));
 }
 
 export async function getProductById(id: string): Promise<Product | null> {
@@ -26,7 +35,16 @@ export async function getProductById(id: string): Promise<Product | null> {
   const { products } = await import("@/db/schema");
   const { eq } = await import("drizzle-orm");
   const [p] = await db.select().from(products).where(eq(products.id, id)).limit(1);
-  return p ? { ...p, imageUrls: p.imageUrls ?? [], tags: p.tags ?? [], compareAtPrice: p.compareAtPrice ?? null, createdAt: p.createdAt.toISOString(), updatedAt: p.updatedAt.toISOString(), status: p.status as Product["status"] } : null;
+  return p ? {
+    ...p,
+    collection: p.collection ?? "",
+    imageUrls: p.imageUrls ?? [],
+    tags: p.tags ?? [],
+    compareAtPrice: p.compareAtPrice ?? null,
+    createdAt: p.createdAt.toISOString(),
+    updatedAt: p.updatedAt.toISOString(),
+    status: p.status as Product["status"],
+  } : null;
 }
 
 export async function getProductBySlug(slug: string): Promise<Product | null> {
@@ -35,7 +53,16 @@ export async function getProductBySlug(slug: string): Promise<Product | null> {
   const { products } = await import("@/db/schema");
   const { and, eq } = await import("drizzle-orm");
   const [p] = await db.select().from(products).where(and(eq(products.slug, slug), eq(products.status, "active"))).limit(1);
-  return p ? { ...p, imageUrls: p.imageUrls ?? [], tags: p.tags ?? [], compareAtPrice: p.compareAtPrice ?? null, createdAt: p.createdAt.toISOString(), updatedAt: p.updatedAt.toISOString(), status: p.status as Product["status"] } : null;
+  return p ? {
+    ...p,
+    collection: p.collection ?? "",
+    imageUrls: p.imageUrls ?? [],
+    tags: p.tags ?? [],
+    compareAtPrice: p.compareAtPrice ?? null,
+    createdAt: p.createdAt.toISOString(),
+    updatedAt: p.updatedAt.toISOString(),
+    status: p.status as Product["status"],
+  } : null;
 }
 
 export async function createProduct(input: ProductInput): Promise<Product> {
@@ -45,7 +72,16 @@ export async function createProduct(input: ProductInput): Promise<Product> {
   const { db } = await import("@/db");
   const { products } = await import("@/db/schema");
   const [created] = await db.insert(products).values({ ...product, compareAtPrice: product.compareAtPrice ?? null, createdAt: new Date(timestamp), updatedAt: new Date(timestamp) }).returning();
-  return { ...created, imageUrls: created.imageUrls ?? [], tags: created.tags ?? [], compareAtPrice: created.compareAtPrice ?? null, createdAt: created.createdAt.toISOString(), updatedAt: created.updatedAt.toISOString(), status: created.status as Product["status"] };
+  return {
+    ...created,
+    collection: created.collection ?? "",
+    imageUrls: created.imageUrls ?? [],
+    tags: created.tags ?? [],
+    compareAtPrice: created.compareAtPrice ?? null,
+    createdAt: created.createdAt.toISOString(),
+    updatedAt: created.updatedAt.toISOString(),
+    status: created.status as Product["status"],
+  };
 }
 
 export async function updateProduct(id: string, updates: Partial<ProductInput>): Promise<Product | null> {
@@ -69,7 +105,16 @@ export async function updateProduct(id: string, updates: Partial<ProductInput>):
         quantityAfter: updates.stock, reason: "Manual stock adjustment", referenceId: null,
       });
     }
-    return { ...updated, imageUrls: updated.imageUrls ?? [], tags: updated.tags ?? [], compareAtPrice: updated.compareAtPrice ?? null, createdAt: updated.createdAt.toISOString(), updatedAt: updated.updatedAt.toISOString(), status: updated.status as Product["status"] };
+    return {
+      ...updated,
+      collection: updated.collection ?? "",
+      imageUrls: updated.imageUrls ?? [],
+      tags: updated.tags ?? [],
+      compareAtPrice: updated.compareAtPrice ?? null,
+      createdAt: updated.createdAt.toISOString(),
+      updatedAt: updated.updatedAt.toISOString(),
+      status: updated.status as Product["status"],
+    };
   });
 }
 
