@@ -20,6 +20,8 @@ export async function listProducts(options: { includeDrafts?: boolean } = {}): P
   return rows.map((p) => ({
     ...p,
     collection: p.collection ?? "",
+    fabric: p.fabric ?? "",
+    colour: p.colour ?? "",
     imageUrls: p.imageUrls ?? [],
     tags: p.tags ?? [],
     compareAtPrice: p.compareAtPrice ?? null,
@@ -38,6 +40,8 @@ export async function getProductById(id: string): Promise<Product | null> {
   return p ? {
     ...p,
     collection: p.collection ?? "",
+    fabric: p.fabric ?? "",
+    colour: p.colour ?? "",
     imageUrls: p.imageUrls ?? [],
     tags: p.tags ?? [],
     compareAtPrice: p.compareAtPrice ?? null,
@@ -56,6 +60,8 @@ export async function getProductBySlug(slug: string): Promise<Product | null> {
   return p ? {
     ...p,
     collection: p.collection ?? "",
+    fabric: p.fabric ?? "",
+    colour: p.colour ?? "",
     imageUrls: p.imageUrls ?? [],
     tags: p.tags ?? [],
     compareAtPrice: p.compareAtPrice ?? null,
@@ -75,6 +81,8 @@ export async function createProduct(input: ProductInput): Promise<Product> {
   return {
     ...created,
     collection: created.collection ?? "",
+    fabric: created.fabric ?? "",
+    colour: created.colour ?? "",
     imageUrls: created.imageUrls ?? [],
     tags: created.tags ?? [],
     compareAtPrice: created.compareAtPrice ?? null,
@@ -108,6 +116,8 @@ export async function updateProduct(id: string, updates: Partial<ProductInput>):
     return {
       ...updated,
       collection: updated.collection ?? "",
+      fabric: updated.fabric ?? "",
+      colour: updated.colour ?? "",
       imageUrls: updated.imageUrls ?? [],
       tags: updated.tags ?? [],
       compareAtPrice: updated.compareAtPrice ?? null,

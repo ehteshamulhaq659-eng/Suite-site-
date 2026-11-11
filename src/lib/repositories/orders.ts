@@ -127,7 +127,12 @@ export async function listOrders(): Promise<OrderRecord[]> {
     paymentStatus: orders.paymentStatus, createdAt: orders.createdAt,
     itemCount: sql<number>`coalesce(sum(${orderItems.quantity}), 0)`,
   }).from(orders).leftJoin(orderItems, eq(orderItems.orderId, orders.id)).groupBy(orders.id).orderBy(desc(orders.createdAt)).limit(100);
-  return rows.map((row) => ({ ...row, itemCount: Number(row.itemCount), createdAt: row.createdAt.toISOString() }));
+  return rows.map((row) => ({
+    ...row,
+    customerEmail: row.customerEmail ?? undefined,
+    itemCount: Number(row.itemCount),
+    createdAt: row.createdAt.toISOString(),
+  }));
 }
 
 export async function listCustomerOrders(userId: string) {
