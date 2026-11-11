@@ -22,20 +22,148 @@ export type Product = {
   updatedAt: string;
 };
 
+// Prices are taken from the three price folders in the supplied Suits.zip.
+// Stock is intentionally zero until E&H confirms physical quantities.
 const now = "2026-11-11T12:00:00.000Z";
 
 export const seedProducts: Product[] = [
-  { id: "demo-emerald-bloom", name: "Emerald Bloom", slug: "emerald-bloom", sku: "EHF-2450-001", description: "A graceful three-piece unstitched suit with delicate botanical detailing and a rich emerald palette.", category: "Embroidered suits", collection: "The Signature Edit", fabric: "Lawn", colour: "Emerald", pieces: 3, price: 2450, compareAtPrice: null, stock: 12, imageUrls: ["/products/suit-01.webp"], tags: ["new arrival", "three piece"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-rose-garden", name: "Rose Garden", slug: "rose-garden", sku: "EHF-2450-002", description: "Soft rose tones paired with elegant embroidery for a refined everyday look.", category: "Printed suits", collection: "The Signature Edit", fabric: "Lawn", colour: "Rose pink", pieces: 3, price: 2450, compareAtPrice: null, stock: 9, imageUrls: ["/products/suit-02.webp"], tags: ["soft tones"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-mustard-classic", name: "Mustard Classic", slug: "mustard-classic", sku: "EHF-2450-003", description: "A warm mustard suit with ornamental embroidery and a timeless silhouette.", category: "Embroidered suits", collection: "Autumn Notes", fabric: "Lawn", colour: "Mustard", pieces: 3, price: 2450, compareAtPrice: null, stock: 7, imageUrls: ["/products/suit-03.webp"], tags: ["classic"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-maroon-heritage", name: "Maroon Heritage", slug: "maroon-heritage", sku: "EHF-2500-001", description: "A rich, occasion-ready look with intricate patterning and a deep wine palette.", category: "Printed suits", collection: "The Signature Edit", fabric: "Lawn", colour: "Maroon", pieces: 3, price: 2500, compareAtPrice: null, stock: 5, imageUrls: ["/products/suit-04.webp"], tags: ["occasion wear"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-floral-noir", name: "Floral Noir", slug: "floral-noir", sku: "EHF-2500-002", description: "A dramatic dark base softened by floral accents and a graceful print.", category: "Printed suits", collection: "Autumn Notes", fabric: "Lawn", colour: "Black and berry", pieces: 3, price: 2500, compareAtPrice: null, stock: 8, imageUrls: ["/products/suit-05.webp"], tags: ["floral", "bestseller"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-olive-dusk", name: "Olive Dusk", slug: "olive-dusk", sku: "EHF-2500-003", description: "An understated olive-toned ensemble with a beautifully balanced print.", category: "Printed suits", collection: "Autumn Notes", fabric: "Lawn", colour: "Olive", pieces: 3, price: 2500, compareAtPrice: null, stock: 11, imageUrls: ["/products/suit-06.webp"], tags: ["earth tones"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-sapphire-print", name: "Sapphire Print", slug: "sapphire-print", sku: "EHF-2500-004", description: "A vibrant blue and berry print designed to make everyday dressing feel special.", category: "Printed suits", collection: "The Signature Edit", fabric: "Lawn", colour: "Sapphire", pieces: 3, price: 2500, compareAtPrice: null, stock: 6, imageUrls: ["/products/suit-07.webp"], tags: ["colour pop"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-plum-grace", name: "Plum Grace", slug: "plum-grace", sku: "EHF-2500-005", description: "A graceful plum ensemble with coordinated detailing and rich colour depth.", category: "Printed suits", collection: "The Signature Edit", fabric: "Lawn", colour: "Plum", pieces: 3, price: 2500, compareAtPrice: null, stock: 4, imageUrls: ["/products/suit-08.webp"], tags: ["limited stock"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-sage-story", name: "Sage Story", slug: "sage-story", sku: "EHF-2500-006", description: "A soft sage and neutral print with an elegant, relaxed character.", category: "Printed suits", collection: "Autumn Notes", fabric: "Lawn", colour: "Sage", pieces: 3, price: 2500, compareAtPrice: null, stock: 8, imageUrls: ["/products/suit-09.webp"], tags: ["new arrival"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-azure-day", name: "Azure Day", slug: "azure-day", sku: "EHF-3000-001", description: "An elegant blue-toned three-piece suit with coordinated model and fabric details.", category: "Premium suits", collection: "The Premium Edit", fabric: "Lawn", colour: "Azure", pieces: 3, price: 3000, compareAtPrice: null, stock: 5, imageUrls: ["/products/suit-10.webp"], tags: ["premium", "new arrival"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-black-royale", name: "Black Royale", slug: "black-royale", sku: "EHF-3000-002", description: "A sophisticated black design with statement embroidery and coordinated pieces.", category: "Premium suits", collection: "The Premium Edit", fabric: "Lawn", colour: "Black", pieces: 3, price: 3000, compareAtPrice: null, stock: 3, imageUrls: ["/products/suit-11.webp"], tags: ["premium", "occasion wear"], status: "active", isFeatured: true, createdAt: now, updatedAt: now },
-  { id: "demo-rust-embroidery", name: "Rust Embroidery", slug: "rust-embroidery", sku: "EHF-3000-003", description: "A warm rust-coloured suit with intricate embroidery and refined finishing.", category: "Premium suits", collection: "The Premium Edit", fabric: "Lawn", colour: "Rust", pieces: 3, price: 3000, compareAtPrice: null, stock: 6, imageUrls: ["/products/suit-12.webp"], tags: ["premium"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
-  { id: "demo-navy-atelier", name: "Navy Atelier", slug: "navy-atelier", sku: "EHF-3000-004", description: "A deep navy statement design with ornate embroidery and a polished finish.", category: "Premium suits", collection: "The Premium Edit", fabric: "Lawn", colour: "Navy", pieces: 3, price: 3000, compareAtPrice: null, stock: 7, imageUrls: ["/products/suit-13.webp"], tags: ["premium"], status: "active", isFeatured: false, createdAt: now, updatedAt: now },
+  {
+    id: "ehf-seed-001", name: "Emerald Bloom", slug: "emerald-bloom", sku: "EHF-2450-001",
+    description: "A deep emerald suit with delicate light embroidery and a graceful, polished look. Contact E&H for fabric composition and current availability.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Emerald green", pieces: 3,
+    price: 2450, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-01.webp", "/products/suit-01-detail.webp"],
+    tags: ["emerald", "embroidered", "three piece", "signature"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-002", name: "Rose Garden", slug: "rose-garden", sku: "EHF-2450-002",
+    description: "A soft rose-pink suit with fine, coordinated embroidery. Contact E&H for fabric composition and current availability.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Rose pink", pieces: 3,
+    price: 2450, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-02.webp", "/products/suit-02-detail.webp"],
+    tags: ["pink", "embroidered", "three piece", "signature"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-003", name: "Marigold Threadwork", slug: "marigold-threadwork", sku: "EHF-2450-003",
+    description: "A warm marigold-toned suit with decorative threadwork shown in the product photographs. Ask our team for more details before ordering.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Mustard yellow", pieces: 3,
+    price: 2450, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-03.webp", "/products/suit-03-detail.webp"],
+    tags: ["mustard", "embroidered", "three piece"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-004", name: "Maroon Heritage", slug: "maroon-heritage", sku: "EHF-2500-001",
+    description: "A rich maroon and warm-neutral ensemble with coordinated printed and embroidered details. Contact E&H to confirm the set contents.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Maroon and beige", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-04.webp", "/products/suit-04-detail.webp"],
+    tags: ["maroon", "occasion", "three piece"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-005", name: "Midnight Floral", slug: "midnight-floral", sku: "EHF-2500-002",
+    description: "A dark base with small floral motifs, presented as a coordinated folded fabric set. Contact E&H for exact fabric and piece details.",
+    category: "Printed suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Midnight navy and pink", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-05.webp"],
+    tags: ["floral", "dark tones", "printed"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-006", name: "Forest Green Classic", slug: "forest-green-classic", sku: "EHF-2500-003",
+    description: "A deep green suit with a contrasting patterned border and coordinated pieces. Contact E&H for exact fabric and set details.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Forest green", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-06.webp", "/products/suit-06-detail.webp"],
+    tags: ["green", "embroidered", "three piece"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-007", name: "Berry Blue Print", slug: "berry-blue-print", sku: "EHF-2500-004",
+    description: "A vibrant berry-and-blue printed fabric combination for a colourful everyday look. Contact E&H for fabric composition and availability.",
+    category: "Printed suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Berry pink and blue", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-07.webp"],
+    tags: ["berry", "blue", "printed"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-008", name: "Plum Grace", slug: "plum-grace", sku: "EHF-2500-005",
+    description: "A plum-coloured suit with coordinated decorative detailing and a rich, elegant palette. Contact E&H for exact fabric and set details.",
+    category: "Embroidered suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Plum purple", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-08.webp", "/products/suit-08-detail.webp"],
+    tags: ["plum", "purple", "embroidered"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-009", name: "Burnt Sienna", slug: "burnt-sienna", sku: "EHF-2500-006",
+    description: "A warm burnt-orange suit with a bold all-over pattern and matching styling. Contact E&H for fabric composition and current availability.",
+    category: "Printed suits", collection: "The Signature Edit", fabric: "Unstitched suit", colour: "Burnt orange", pieces: 3,
+    price: 2500, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-09.webp", "/products/suit-09-detail.webp"],
+    tags: ["orange", "printed", "three piece"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-010", name: "Slate & Sand", slug: "slate-and-sand", sku: "EHF-3000-001",
+    description: "A muted slate-blue and sand-toned fabric design with fine repeating details. Contact E&H for fabric composition and set details.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Slate blue and sand", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-10.webp"],
+    tags: ["premium", "blue", "neutral"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-011", name: "Copper Garden", slug: "copper-garden", sku: "EHF-3000-002",
+    description: "A copper, blue and muted-neutral printed design with a detailed floral composition. Contact E&H for exact fabric and piece details.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Copper and blue", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-11.webp"],
+    tags: ["premium", "copper", "floral"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-012", name: "Powder Blue Elegance", slug: "powder-blue-elegance", sku: "EHF-3000-003",
+    description: "A powder-blue suit with coordinated embroidered detailing and a soft, graceful colour story. Contact E&H to confirm exact set contents.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Powder blue", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-12.webp"],
+    tags: ["premium", "powder blue", "embroidered"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-013", name: "Black Royale", slug: "black-royale", sku: "EHF-3000-004",
+    description: "A black suit with ornate light embroidery and a striking, timeless appearance. Contact E&H for fabric composition and availability.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Black", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-13.webp", "/products/suit-13-detail.webp"],
+    tags: ["premium", "black", "embroidered"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-014", name: "Rust & Gold", slug: "rust-and-gold", sku: "EHF-3000-005",
+    description: "A rust-toned fabric set with contrasting pale embroidery and a warm, occasion-ready palette. Contact E&H for exact details.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Rust and gold", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-14.webp"],
+    tags: ["premium", "rust", "embroidered"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-015", name: "Midnight Navy", slug: "midnight-navy", sku: "EHF-3000-006",
+    description: "A deep navy fabric set with gold-toned ornamental embroidery. Contact E&H for composition and availability.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Midnight navy", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-15.webp"],
+    tags: ["premium", "navy", "embroidered"], status: "active", isFeatured: false, createdAt: now, updatedAt: now,
+  },
+  {
+    id: "ehf-seed-016", name: "Peacock Teal", slug: "peacock-teal", sku: "EHF-3000-007",
+    description: "A vivid teal-blue suit with coordinated embroidered detailing. Contact E&H for fabric composition and current availability.",
+    category: "Premium suits", collection: "The Premium Edit", fabric: "Unstitched suit", colour: "Teal blue", pieces: 3,
+    price: 3000, compareAtPrice: null, stock: 0,
+    imageUrls: ["/products/suit-16.webp"],
+    tags: ["premium", "teal", "embroidered"], status: "active", isFeatured: true, createdAt: now, updatedAt: now,
+  },
+];
+
+export const seedCategories = [
+  { id: "ehf-category-embroidered", name: "Embroidered suits", slug: "embroidered-suits", description: "Suits featuring decorative embroidery and detailed finishing.", sortOrder: 1, isActive: true },
+  { id: "ehf-category-printed", name: "Printed suits", slug: "printed-suits", description: "Colourful printed suit designs and coordinated fabric sets.", sortOrder: 2, isActive: true },
+  { id: "ehf-category-premium", name: "Premium suits", slug: "premium-suits", description: "Selected premium designs from the E&H collection.", sortOrder: 3, isActive: true },
+];
+
+export const seedCollections = [
+  { id: "ehf-collection-signature", name: "The Signature Edit", slug: "the-signature-edit", description: "A curated selection of E&H signature suit designs.", coverImage: "/products/suit-01.webp", isFeatured: true, isActive: true },
+  { id: "ehf-collection-premium", name: "The Premium Edit", slug: "the-premium-edit", description: "Elevated colours and detailed suit designs.", coverImage: "/products/suit-13.webp", isFeatured: true, isActive: true },
 ];

@@ -80,11 +80,15 @@ Useful routes:
    npm run db:migrate
    ```
 
-7. Insert the included starter products:
+7. Populate the Neon catalogue (16 starter suits, categories, collections and initial store settings):
 
    ```bash
    npm run db:seed
    ```
+
+   On Windows PowerShell, use `npm.cmd run db:seed` if the PowerShell execution policy blocks `npm.ps1`.
+
+   The seed is repeatable: it updates the starter product descriptions, prices and image galleries by SKU, while preserving existing stock quantities and publication statuses. New products start with stock `0` because physical quantities were not included in the supplied archive. Set verified stock in **Admin → Products** before accepting orders.
 
 8. Configure Cloudinary for durable product and reference-photo uploads:
 
@@ -134,7 +138,8 @@ Set a free-delivery threshold of `0` to disable the threshold. The standard deli
 
 - In demo mode, uploads are saved in `public/uploads/` for local preview. This is not durable storage for serverless hosting.
 - In Neon mode, upload routes require Cloudinary credentials. Product photos and support reference images are uploaded to separate Cloudinary folders. Cloudinary `res.cloudinary.com` URLs are permitted by the Next.js image configuration.
-- Existing starter images are stored in `public/products/` and can be served as static assets.
+- During `npm run db:seed`, if all three Cloudinary credentials are present, the 16 starter product images and available detail views are uploaded to `eh-fabrics/products` and their secure Cloudinary URLs are saved in Neon. If Cloudinary is not configured or the upload service is temporarily unavailable, the seed stores the matching `/products/...` paths instead; those assets are bundled in `public/products/` and served by Next.js.
+- Existing starter images remain in `public/products/` so seeding works from a complete project checkout and Cloudinary is not a prerequisite for populating product records.
 
 Supported uploads: JPG, PNG and WebP; maximum 6 MB per file.
 
@@ -200,4 +205,4 @@ npm run db:studio    # open Drizzle Studio
 - Primary and reversed E&H Fabrics SVG logos are in `public/brand/`.
 - The monogram app icon is in `public/brand/`.
 - Starter product images were selected from the supplied `Suits.zip` archive and optimized to WebP in `public/products/`.
-- Demo catalogue prices use the price groups visible in the supplied archive (PKR 2,450, 2,500 and 3,000). Verify product names, price, descriptions and actual stock in the admin before launch.
+- Starter catalogue prices are assigned from the supplied archive's three price folders (PKR 2,450, 2,500 and 3,000). Review each product photograph, name, price, fabric composition and piece details before launch. The seed does not guess stock: new items start at zero, and verified inventory must be entered in Admin → Products.
