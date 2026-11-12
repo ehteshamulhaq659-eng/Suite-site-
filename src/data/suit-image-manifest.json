@@ -1,0 +1,1801 @@
+[
+  {
+    "sku": "EH-2800-001",
+    "price": 2800,
+    "sequence": 1,
+    "imageUrl": "/suits/2800/EH-2800-001.jpeg",
+    "createdAt": "2026-11-11T15:36:01.000Z",
+    "sha256": "b434042025944cf5f3232061be05ebd48cbfc305878611e9ce5669b69ff7d747",
+    "sourceFiles": [
+      "Suits/2800/WhatsApp Image 2026-11-11 at 3.36.01 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-2800-002",
+    "price": 2800,
+    "sequence": 2,
+    "imageUrl": "/suits/2800/EH-2800-002.jpeg",
+    "createdAt": "2026-11-11T15:36:01.000Z",
+    "sha256": "c92b63b36dbec9967e2813b39ae7f6989ac54d41034da05cb46fbbab119fd0c7",
+    "sourceFiles": [
+      "Suits/2800/WhatsApp Image 2026-11-11 at 3.36.01 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2801,
+      "height": 3420
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-2800-003",
+    "price": 2800,
+    "sequence": 3,
+    "imageUrl": "/suits/2800/EH-2800-003.jpeg",
+    "createdAt": "2026-11-11T15:36:02.000Z",
+    "sha256": "0f8f87f8b2f32c8099f058a809fe610f4479096f12cf140663ef78a9241eabb1",
+    "sourceFiles": [
+      "Suits/2800/WhatsApp Image 2026-11-11 at 3.36.02 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-2800-004",
+    "price": 2800,
+    "sequence": 4,
+    "imageUrl": "/suits/2800/EH-2800-004.jpeg",
+    "createdAt": "2026-11-11T15:36:02.000Z",
+    "sha256": "5c88ebdfe426ea37efe4cb0763921f24a10b3e70e61bae79d0e3cb54bead09d8",
+    "sourceFiles": [
+      "Suits/2800/WhatsApp Image 2026-11-11 at 3.36.02 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2675,
+      "height": 3141
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-001",
+    "price": 3000,
+    "sequence": 1,
+    "imageUrl": "/suits/3000/EH-3000-001.jpeg",
+    "createdAt": "2026-11-11T15:36:41.000Z",
+    "sha256": "46522c9b047c1e79ff2e835d6d73011ac91edaac388bed9a981692e9c056ae88",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.41 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-002",
+    "price": 3000,
+    "sequence": 2,
+    "imageUrl": "/suits/3000/EH-3000-002.jpeg",
+    "createdAt": "2026-11-11T15:36:42.000Z",
+    "sha256": "d21556a16782b6c99e8738f15a9b7030f57750a8f601dd564dcc321e68dcdb25",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.42 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1508,
+      "height": 1332
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-003",
+    "price": 3000,
+    "sequence": 3,
+    "imageUrl": "/suits/3000/EH-3000-003.jpeg",
+    "createdAt": "2026-11-11T15:36:43.000Z",
+    "sha256": "d3c8c3c85927752a266e5fbf0e668716b4edcd2f3a5c3d8703804f58e5d82f67",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.43 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-004",
+    "price": 3000,
+    "sequence": 4,
+    "imageUrl": "/suits/3000/EH-3000-004.jpeg",
+    "createdAt": "2026-11-11T15:36:44.000Z",
+    "sha256": "3ed28b71256de38449705830951816f4d33b9676dde200b95db45c3ddfe5fa77",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.44 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-005",
+    "price": 3000,
+    "sequence": 5,
+    "imageUrl": "/suits/3000/EH-3000-005.jpeg",
+    "createdAt": "2026-11-11T15:36:44.000Z",
+    "sha256": "64578265d33d1446973aff17013deab8e5913b4e267fe4fab809be0f6b97903b",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.44 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1363,
+      "height": 1178
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-006",
+    "price": 3000,
+    "sequence": 6,
+    "imageUrl": "/suits/3000/EH-3000-006.jpeg",
+    "createdAt": "2026-11-11T15:36:45.000Z",
+    "sha256": "20f58cba6ef3bc20172b06fd148f3a94adcccf3c42dfd5c446699fdffa5951ba",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.45 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1462,
+      "height": 1312
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-007",
+    "price": 3000,
+    "sequence": 7,
+    "imageUrl": "/suits/3000/EH-3000-007.jpeg",
+    "createdAt": "2026-11-11T15:36:46.000Z",
+    "sha256": "3e360759794265ac2d6f58296190f72cbf0bd95b76cb096ed40b10db5346a328",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.46 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1377,
+      "height": 1245
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-008",
+    "price": 3000,
+    "sequence": 8,
+    "imageUrl": "/suits/3000/EH-3000-008.jpeg",
+    "createdAt": "2026-11-11T15:36:46.000Z",
+    "sha256": "e3063b03ea071cd1ab8a14a75676dc43edd7e46c20c2906cd1b30b929b867995",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.46 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-009",
+    "price": 3000,
+    "sequence": 9,
+    "imageUrl": "/suits/3000/EH-3000-009.jpeg",
+    "createdAt": "2026-11-11T15:36:47.000Z",
+    "sha256": "99c449a52441c176cd4b7ae86dd6a3e7a3daf941e9b63368b61c4d462b754ad6",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.47 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1496,
+      "height": 1343
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-010",
+    "price": 3000,
+    "sequence": 10,
+    "imageUrl": "/suits/3000/EH-3000-010.jpeg",
+    "createdAt": "2026-11-11T15:36:48.000Z",
+    "sha256": "fdfe23f166c283ba087894d165235d9a2001bc8c710061ae035d723484db22ff",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.48 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-011",
+    "price": 3000,
+    "sequence": 11,
+    "imageUrl": "/suits/3000/EH-3000-011.jpeg",
+    "createdAt": "2026-11-11T15:36:49.000Z",
+    "sha256": "dcfa8c763c6a992b7974a342b79e9f396634daf197d67c618fc1bd4e3c768fce",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.49 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1080,
+      "height": 1224
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-012",
+    "price": 3000,
+    "sequence": 12,
+    "imageUrl": "/suits/3000/EH-3000-012.jpeg",
+    "createdAt": "2026-11-11T15:36:50.000Z",
+    "sha256": "7ef013448f8981125b3d81773794dd4522d8973270b172bc8ef6058c764df9fc",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.50 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1480,
+      "height": 1294
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-013",
+    "price": 3000,
+    "sequence": 13,
+    "imageUrl": "/suits/3000/EH-3000-013.jpeg",
+    "createdAt": "2026-11-11T15:36:50.000Z",
+    "sha256": "8efe24c0ad8a397eb78a9dc6c076c80da9f362af99b629f9eeaf0808c95ad870",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.50 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-014",
+    "price": 3000,
+    "sequence": 14,
+    "imageUrl": "/suits/3000/EH-3000-014.jpeg",
+    "createdAt": "2026-11-11T15:36:51.000Z",
+    "sha256": "5f47e1b74b28e7dca1a4032b9f711b94dbcbf60aec019de0d9ad1dce4f55f9e8",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.51 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-015",
+    "price": 3000,
+    "sequence": 15,
+    "imageUrl": "/suits/3000/EH-3000-015.jpeg",
+    "createdAt": "2026-11-11T15:36:51.000Z",
+    "sha256": "c859e0de57d319e8a2e0838e421e9351c469c131cd3d0b3abf4596d107fa78af",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.51 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-016",
+    "price": 3000,
+    "sequence": 16,
+    "imageUrl": "/suits/3000/EH-3000-016.jpeg",
+    "createdAt": "2026-11-11T15:36:52.000Z",
+    "sha256": "eb54f2f31d437459da47557814fa2a58991c2942ac982c5626988f27a3f77db3",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.52 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-017",
+    "price": 3000,
+    "sequence": 17,
+    "imageUrl": "/suits/3000/EH-3000-017.jpeg",
+    "createdAt": "2026-11-11T15:36:52.000Z",
+    "sha256": "c8490849a3a84ea0f536862ec0815ae8e6818e7249e5598a38514b1abed0f539",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.52 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-018",
+    "price": 3000,
+    "sequence": 18,
+    "imageUrl": "/suits/3000/EH-3000-018.jpeg",
+    "createdAt": "2026-11-11T15:36:53.000Z",
+    "sha256": "94a21886b3c2cfff1312cf8a896159122c80ceedc253db4db04e7a023370c96d",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.53 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-019",
+    "price": 3000,
+    "sequence": 19,
+    "imageUrl": "/suits/3000/EH-3000-019.jpeg",
+    "createdAt": "2026-11-11T15:36:53.000Z",
+    "sha256": "516c31e785020b285c827a1a69f5df0b71c825f8a44b7e695a36b93bce8a2f92",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.36.53 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-020",
+    "price": 3000,
+    "sequence": 20,
+    "imageUrl": "/suits/3000/EH-3000-020.jpeg",
+    "createdAt": "2026-11-11T15:42:06.000Z",
+    "sha256": "30affae55b45b33317725ebdb6de6b0d39978a3fb9c6b40f1575dbf31a78c308",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.06 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2157,
+      "height": 2622
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-021",
+    "price": 3000,
+    "sequence": 21,
+    "imageUrl": "/suits/3000/EH-3000-021.jpeg",
+    "createdAt": "2026-11-11T15:42:07.000Z",
+    "sha256": "f34e311ffe1c7e0a2ec3611907224dc9c0c778b78c414df306b7e8453fe33476",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.07 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.03 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-022",
+    "price": 3000,
+    "sequence": 22,
+    "imageUrl": "/suits/3000/EH-3000-022.jpeg",
+    "createdAt": "2026-11-11T15:42:07.000Z",
+    "sha256": "5f2f8857b40612b0b412db2d7b9ac7bf79ceb0c239fb69f16dad9610417db802",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.07 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.04 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-023",
+    "price": 3000,
+    "sequence": 23,
+    "imageUrl": "/suits/3000/EH-3000-023.jpeg",
+    "createdAt": "2026-11-11T15:42:08.000Z",
+    "sha256": "35b662062256e4811e79cb54cfb8a95c234786863432ee76d8172cb37e678b21",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.08 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.00 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1402,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-024",
+    "price": 3000,
+    "sequence": 24,
+    "imageUrl": "/suits/3000/EH-3000-024.jpeg",
+    "createdAt": "2026-11-11T15:42:09.000Z",
+    "sha256": "511c8432555c3accebbbb97763f1b880ac4b984b2665d53dff3b54511c482353",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.09 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.05 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1468,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-025",
+    "price": 3000,
+    "sequence": 25,
+    "imageUrl": "/suits/3000/EH-3000-025.jpeg",
+    "createdAt": "2026-11-11T15:42:09.000Z",
+    "sha256": "2a964bd4c253478818681515613ae869ed2f31f40169738f3b7ccedd188d27f5",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.09 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.02 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1458,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-026",
+    "price": 3000,
+    "sequence": 26,
+    "imageUrl": "/suits/3000/EH-3000-026.jpeg",
+    "createdAt": "2026-11-11T15:42:10.000Z",
+    "sha256": "ec9769151e1676e8f848a11468a8a4bab8810518a4902597d319196810f6cc34",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.10 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.59 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1372,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-027",
+    "price": 3000,
+    "sequence": 27,
+    "imageUrl": "/suits/3000/EH-3000-027.jpeg",
+    "createdAt": "2026-11-11T15:42:10.000Z",
+    "sha256": "b35bc8acb34db1a80edde569d917a02bfe5f7ebb02b21d98a1cd2bf484513105",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.10 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.00 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-028",
+    "price": 3000,
+    "sequence": 28,
+    "imageUrl": "/suits/3000/EH-3000-028.jpeg",
+    "createdAt": "2026-11-11T15:42:11.000Z",
+    "sha256": "3d01a836b9ce1542ededad23a86f110b2e89a192056a47b93706d23749b7901b",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.11 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.02 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-029",
+    "price": 3000,
+    "sequence": 29,
+    "imageUrl": "/suits/3000/EH-3000-029.jpeg",
+    "createdAt": "2026-11-11T15:42:11.000Z",
+    "sha256": "ec08978450362be3cccd81609332321d5a07ee197aa31ab3765e6744d21ad751",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.11 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.01 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1441,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-030",
+    "price": 3000,
+    "sequence": 30,
+    "imageUrl": "/suits/3000/EH-3000-030.jpeg",
+    "createdAt": "2026-11-11T15:42:12.000Z",
+    "sha256": "ae813ee98f09cc0d7f3f48dba0d7de1edace415daad2270bb55c0cf6b76c6968",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.12 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.59 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-031",
+    "price": 3000,
+    "sequence": 31,
+    "imageUrl": "/suits/3000/EH-3000-031.jpeg",
+    "createdAt": "2026-11-11T15:42:12.000Z",
+    "sha256": "534cd9e5000dda075c78522dabb1ffeaf271858f433ea6fa89a9947cfea70d89",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.12 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.57 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-032",
+    "price": 3000,
+    "sequence": 32,
+    "imageUrl": "/suits/3000/EH-3000-032.jpeg",
+    "createdAt": "2026-11-11T15:42:13.000Z",
+    "sha256": "e986158fa1b38bb82accd09e7f15fe56cfa114a51283ea2a80bb188a98df9c2d",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.13 PM (1).jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.57 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1419,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-033",
+    "price": 3000,
+    "sequence": 33,
+    "imageUrl": "/suits/3000/EH-3000-033.jpeg",
+    "createdAt": "2026-11-11T15:42:13.000Z",
+    "sha256": "763713427a6cb25db070350464c37a8cf9e2778bdc595967e01f1babec4959dc",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.13 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.58 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1452,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-034",
+    "price": 3000,
+    "sequence": 34,
+    "imageUrl": "/suits/3000/EH-3000-034.jpeg",
+    "createdAt": "2026-11-11T15:42:14.000Z",
+    "sha256": "50cc8b569f26118ffa23e65aabfffc6073822e6b435f64abf7d179b283a7234f",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-11 at 3.42.14 PM.jpeg",
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.26.56 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-035",
+    "price": 3000,
+    "sequence": 35,
+    "imageUrl": "/suits/3000/EH-3000-035.jpeg",
+    "createdAt": "2026-11-12T16:27:03.000Z",
+    "sha256": "32412b6e9936a15621526455e6b312c6c54e7bd37ec607175e3b2abff1183cef",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.27.03 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1053,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-036",
+    "price": 3000,
+    "sequence": 36,
+    "imageUrl": "/suits/3000/EH-3000-036.jpeg",
+    "createdAt": "2026-11-12T16:28:43.000Z",
+    "sha256": "25573245094a69eb5ecd51bd5837fabe977c22b7a63984bbdd531787298cfb74",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.43 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-037",
+    "price": 3000,
+    "sequence": 37,
+    "imageUrl": "/suits/3000/EH-3000-037.jpeg",
+    "createdAt": "2026-11-12T16:28:43.000Z",
+    "sha256": "417065f8286675b5e818628aaea2979facc91ba55ed6e736fe9e3bdab661b523",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.43 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-038",
+    "price": 3000,
+    "sequence": 38,
+    "imageUrl": "/suits/3000/EH-3000-038.jpeg",
+    "createdAt": "2026-11-12T16:28:45.000Z",
+    "sha256": "dfa2c4e940211ced6a7f14201d55b742b90eedb0b5eb4769200a54fe6ce2df47",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.45 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-039",
+    "price": 3000,
+    "sequence": 39,
+    "imageUrl": "/suits/3000/EH-3000-039.jpeg",
+    "createdAt": "2026-11-12T16:28:45.000Z",
+    "sha256": "d8ba61d271f5bc3572e4e74f3ae57b616377c239312283457e0ed14fbc74fbae",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.45 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-040",
+    "price": 3000,
+    "sequence": 40,
+    "imageUrl": "/suits/3000/EH-3000-040.jpeg",
+    "createdAt": "2026-11-12T16:28:46.000Z",
+    "sha256": "d7be2cf64564ed764c2333e3a418351a11fd089792d7a18d0b03b5a88d9af440",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.46 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-041",
+    "price": 3000,
+    "sequence": 41,
+    "imageUrl": "/suits/3000/EH-3000-041.jpeg",
+    "createdAt": "2026-11-12T16:28:47.000Z",
+    "sha256": "2920285f5c27539fc6ff1ddfa96f5dc86bd8faf41974aed9b1df2d8afb7247a3",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.47 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-042",
+    "price": 3000,
+    "sequence": 42,
+    "imageUrl": "/suits/3000/EH-3000-042.jpeg",
+    "createdAt": "2026-11-12T16:28:47.000Z",
+    "sha256": "82cc76ce3e7392df4719aa5793d7c3dc124cdfef8514ab463d91fc58ce6d9e75",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.47 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-043",
+    "price": 3000,
+    "sequence": 43,
+    "imageUrl": "/suits/3000/EH-3000-043.jpeg",
+    "createdAt": "2026-11-12T16:28:48.000Z",
+    "sha256": "e9be9300dff18607029b97b068922389f8561cc4096125e86d608f2d787be28c",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.48 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-044",
+    "price": 3000,
+    "sequence": 44,
+    "imageUrl": "/suits/3000/EH-3000-044.jpeg",
+    "createdAt": "2026-11-12T16:28:48.000Z",
+    "sha256": "a6ea56d9aa4217f1a8ba9b2ae06c3b92537b474b0b622fe4606ae2f861e958d6",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.48 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-045",
+    "price": 3000,
+    "sequence": 45,
+    "imageUrl": "/suits/3000/EH-3000-045.jpeg",
+    "createdAt": "2026-11-12T16:28:49.000Z",
+    "sha256": "d01b3a8d30e8585e2bcc5573b0caf367e335c09162be158d89921861d9590773",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.49 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-046",
+    "price": 3000,
+    "sequence": 46,
+    "imageUrl": "/suits/3000/EH-3000-046.jpeg",
+    "createdAt": "2026-11-12T16:28:50.000Z",
+    "sha256": "764e038f7ee3bf6984af1581f4b3517d5e2a62e64471f4dd5a18bc49a9d38019",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.50 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3000-047",
+    "price": 3000,
+    "sequence": 47,
+    "imageUrl": "/suits/3000/EH-3000-047.jpeg",
+    "createdAt": "2026-11-12T16:28:50.000Z",
+    "sha256": "7643ce65e9785c8216fcd814b1cae5ea06347f13edf29294b46edcd2db28f4fd",
+    "sourceFiles": [
+      "Suits/3000/WhatsApp Image 2026-11-12 at 4.28.50 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-001",
+    "price": 3500,
+    "sequence": 1,
+    "imageUrl": "/suits/3500/EH-3500-001.jpeg",
+    "createdAt": "2026-11-11T15:34:23.000Z",
+    "sha256": "8e0c72c5f9b1eb83730d73edc457b21a7f72287118e1adf4822738ae4bb8c70c",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.23 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-002",
+    "price": 3500,
+    "sequence": 2,
+    "imageUrl": "/suits/3500/EH-3500-002.jpeg",
+    "createdAt": "2026-11-11T15:34:24.000Z",
+    "sha256": "f29efda92b4384df86a4c472ed8c10de8e2b4e61e3cf768915db1be37ebaf74e",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.24 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-003",
+    "price": 3500,
+    "sequence": 3,
+    "imageUrl": "/suits/3500/EH-3500-003.jpeg",
+    "createdAt": "2026-11-11T15:34:24.000Z",
+    "sha256": "9c1e82d4b39fe7f4fd7b9602cb4ee1ba290fe4547c13e87f9bd15213cf4d8867",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.24 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-004",
+    "price": 3500,
+    "sequence": 4,
+    "imageUrl": "/suits/3500/EH-3500-004.jpeg",
+    "createdAt": "2026-11-11T15:34:25.000Z",
+    "sha256": "b6a8f23bde6e234435974bc31b2fd90d9eb9dfbea4a756eff7ad1c8d7cff4f39",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.25 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-005",
+    "price": 3500,
+    "sequence": 5,
+    "imageUrl": "/suits/3500/EH-3500-005.jpeg",
+    "createdAt": "2026-11-11T15:34:26.000Z",
+    "sha256": "41a271615816d4fd3a4ef64e38de404a70e5b6821ae834c0feab424c8f32d606",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.26 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-006",
+    "price": 3500,
+    "sequence": 6,
+    "imageUrl": "/suits/3500/EH-3500-006.jpeg",
+    "createdAt": "2026-11-11T15:34:26.000Z",
+    "sha256": "91c46f8bca0762667ab892872f749662494c2a112b43816c0b19a108b6904dbb",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.26 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-007",
+    "price": 3500,
+    "sequence": 7,
+    "imageUrl": "/suits/3500/EH-3500-007.jpeg",
+    "createdAt": "2026-11-11T15:34:27.000Z",
+    "sha256": "eee233e5c38979b64504204ffe9279b1be0c0c30905a3596762ab5bac06253ed",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.27 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-008",
+    "price": 3500,
+    "sequence": 8,
+    "imageUrl": "/suits/3500/EH-3500-008.jpeg",
+    "createdAt": "2026-11-11T15:34:27.000Z",
+    "sha256": "1985457c247771d31dc536cdbfe36619a690cd76decdee405096ffec2058b6c0",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.27 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-009",
+    "price": 3500,
+    "sequence": 9,
+    "imageUrl": "/suits/3500/EH-3500-009.jpeg",
+    "createdAt": "2026-11-11T15:34:28.000Z",
+    "sha256": "94d53e338aaeda8caf56412c7c1c25fb0797e24e017853d1b814b229817b1ec5",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.28 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-010",
+    "price": 3500,
+    "sequence": 10,
+    "imageUrl": "/suits/3500/EH-3500-010.jpeg",
+    "createdAt": "2026-11-11T15:34:28.000Z",
+    "sha256": "b4287fa47c08f6fbae6de59234da55dffb5a0d965d3657e8316a3061726cb9f8",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.34.28 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1280,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-011",
+    "price": 3500,
+    "sequence": 11,
+    "imageUrl": "/suits/3500/EH-3500-011.jpeg",
+    "createdAt": "2026-11-11T15:35:49.000Z",
+    "sha256": "878c8805a1a071afc3ef23c9da200c9ec4a38757fae5239c2c78b688be462098",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.49 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-012",
+    "price": 3500,
+    "sequence": 12,
+    "imageUrl": "/suits/3500/EH-3500-012.jpeg",
+    "createdAt": "2026-11-11T15:35:49.000Z",
+    "sha256": "5a893e349e623496a8c2d1a24ba21801f58f0bc1cfd8a3aabe9e298d55dfd52c",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.49 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-013",
+    "price": 3500,
+    "sequence": 13,
+    "imageUrl": "/suits/3500/EH-3500-013.jpeg",
+    "createdAt": "2026-11-11T15:35:50.000Z",
+    "sha256": "c3be043c05ad884bac332a6dbd3ddd40106ed9a4348b41e42740ae1bc6f9111b",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.50 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 2757,
+      "height": 3408
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-014",
+    "price": 3500,
+    "sequence": 14,
+    "imageUrl": "/suits/3500/EH-3500-014.jpeg",
+    "createdAt": "2026-11-11T15:35:50.000Z",
+    "sha256": "c744bd2cc5956540f27b4c691ae67753374ab184f2c7421c8c015173bcb5289e",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.50 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-015",
+    "price": 3500,
+    "sequence": 15,
+    "imageUrl": "/suits/3500/EH-3500-015.jpeg",
+    "createdAt": "2026-11-11T15:35:51.000Z",
+    "sha256": "6f9a52d5314f5700589c629cfa72e2b7fa8687edfc1780b670ab24187dd37911",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.51 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 2846,
+      "height": 3311
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-016",
+    "price": 3500,
+    "sequence": 16,
+    "imageUrl": "/suits/3500/EH-3500-016.jpeg",
+    "createdAt": "2026-11-11T15:35:51.000Z",
+    "sha256": "ac745d1211aea93857d0f82ce782233fd86e489e790783a20439c3a6e11d6cf9",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.51 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-017",
+    "price": 3500,
+    "sequence": 17,
+    "imageUrl": "/suits/3500/EH-3500-017.jpeg",
+    "createdAt": "2026-11-11T15:35:52.000Z",
+    "sha256": "4da4c22505fa07acde28223bac7e274ca8c4e11103fab1030180056f22b67f32",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.52 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-018",
+    "price": 3500,
+    "sequence": 18,
+    "imageUrl": "/suits/3500/EH-3500-018.jpeg",
+    "createdAt": "2026-11-11T15:35:52.000Z",
+    "sha256": "9e713533f722fba8e104062c583c9ad07a5c34a7086f8b5420326ec7f7205d33",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.52 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2857,
+      "height": 3408
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-019",
+    "price": 3500,
+    "sequence": 19,
+    "imageUrl": "/suits/3500/EH-3500-019.jpeg",
+    "createdAt": "2026-11-11T15:35:53.000Z",
+    "sha256": "57443d5ef458ce627aa0740b7cff6dc662ed7325399029d1c8fa41bd40a433c0",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.53 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-020",
+    "price": 3500,
+    "sequence": 20,
+    "imageUrl": "/suits/3500/EH-3500-020.jpeg",
+    "createdAt": "2026-11-11T15:35:54.000Z",
+    "sha256": "4f68cc82511ba59ba4c947edb5bade5c535448f289e13070a68068985cc73802",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.54 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 2867,
+      "height": 3273
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-021",
+    "price": 3500,
+    "sequence": 21,
+    "imageUrl": "/suits/3500/EH-3500-021.jpeg",
+    "createdAt": "2026-11-11T15:35:54.000Z",
+    "sha256": "e2109002ee83995923ccd66a64b15d64dbd323c8a960709c752915f7bbf39cda",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.54 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2793,
+      "height": 3104
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-022",
+    "price": 3500,
+    "sequence": 22,
+    "imageUrl": "/suits/3500/EH-3500-022.jpeg",
+    "createdAt": "2026-11-11T15:35:55.000Z",
+    "sha256": "677d13e6ede5cd3ddb3fd03fe918f46daab1fb8a19c250c069eb57353d12218a",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.55 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-023",
+    "price": 3500,
+    "sequence": 23,
+    "imageUrl": "/suits/3500/EH-3500-023.jpeg",
+    "createdAt": "2026-11-11T15:35:55.000Z",
+    "sha256": "f7b4289196fdad4fc54eb73121cf5a47c82220f8c4d7898cd649e5f91f17c782",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.55 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2560,
+      "height": 2060
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-024",
+    "price": 3500,
+    "sequence": 24,
+    "imageUrl": "/suits/3500/EH-3500-024.jpeg",
+    "createdAt": "2026-11-11T15:35:56.000Z",
+    "sha256": "65ce7b04cfaa5cae9f3f3389d504c2b92ee4e719fc80b2effc0191a3772ff4bb",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.56 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1014,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-025",
+    "price": 3500,
+    "sequence": 25,
+    "imageUrl": "/suits/3500/EH-3500-025.jpeg",
+    "createdAt": "2026-11-11T15:35:56.000Z",
+    "sha256": "743c89c4e332045555b63520066ad7706b41c561f130deb1faeb9448b9c9dbbb",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.56 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 990,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-026",
+    "price": 3500,
+    "sequence": 26,
+    "imageUrl": "/suits/3500/EH-3500-026.jpeg",
+    "createdAt": "2026-11-11T15:35:57.000Z",
+    "sha256": "2bcc193675b28cf71a1545a6a3d0ed3e47d7c607194199b743bf2a6c2e9e95df",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.57 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-027",
+    "price": 3500,
+    "sequence": 27,
+    "imageUrl": "/suits/3500/EH-3500-027.jpeg",
+    "createdAt": "2026-11-11T15:35:57.000Z",
+    "sha256": "d6de128b5e85fe8934770c780410c4d7738d60887abf8864791d2e244b20b7e3",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.57 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-028",
+    "price": 3500,
+    "sequence": 28,
+    "imageUrl": "/suits/3500/EH-3500-028.jpeg",
+    "createdAt": "2026-11-11T15:35:58.000Z",
+    "sha256": "9e6272e31adf5623875a3037f40e464679213df23fa287ce6d5fb9d8ea9006d9",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.58 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 3496,
+      "height": 4160
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-029",
+    "price": 3500,
+    "sequence": 29,
+    "imageUrl": "/suits/3500/EH-3500-029.jpeg",
+    "createdAt": "2026-11-11T15:35:58.000Z",
+    "sha256": "f20608d74710ff04757ccd6aadcb8bf2a122de7549c79a472f5fa0532745eb21",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.58 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 3362,
+      "height": 4160
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-030",
+    "price": 3500,
+    "sequence": 30,
+    "imageUrl": "/suits/3500/EH-3500-030.jpeg",
+    "createdAt": "2026-11-11T15:35:59.000Z",
+    "sha256": "be37670b57fe94ec8e9cd2da481c0af6a2875d8b0fdb03ea36faf54b4627378d",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.59 PM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 968,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-031",
+    "price": 3500,
+    "sequence": 31,
+    "imageUrl": "/suits/3500/EH-3500-031.jpeg",
+    "createdAt": "2026-11-11T15:35:59.000Z",
+    "sha256": "cc0007fc25c1f47b162cb51cab16b91e72793014f7ebd5908d698cb33e8d0d59",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.35.59 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1600,
+      "height": 1287
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-3500-032",
+    "price": 3500,
+    "sequence": 32,
+    "imageUrl": "/suits/3500/EH-3500-032.jpeg",
+    "createdAt": "2026-11-11T15:36:00.000Z",
+    "sha256": "8b4b68345eb531d4224d4970f98f1331ff9fd1260fb2db315b075289b793515c",
+    "sourceFiles": [
+      "Suits/3500/WhatsApp Image 2026-11-11 at 3.36.00 PM.jpeg"
+    ],
+    "dimensions": {
+      "width": 2886,
+      "height": 3363
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-001",
+    "price": 4500,
+    "sequence": 1,
+    "imageUrl": "/suits/4500/EH-4500-001.jpeg",
+    "createdAt": "2026-11-12T00:16:33.000Z",
+    "sha256": "e1c59c222761018f1f173adbe8ba73d31faff064cf1b4a56c019fdf8e463efea",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.16.33 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-002",
+    "price": 4500,
+    "sequence": 2,
+    "imageUrl": "/suits/4500/EH-4500-002.jpeg",
+    "createdAt": "2026-11-12T00:16:39.000Z",
+    "sha256": "a12c33ab517a0fdecd4d6e90e580d9bba8644cb1583b9b013ed7782d0dd09e11",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.16.39 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-003",
+    "price": 4500,
+    "sequence": 3,
+    "imageUrl": "/suits/4500/EH-4500-003.jpeg",
+    "createdAt": "2026-11-12T00:40:41.000Z",
+    "sha256": "352c09d7db3ad6fb3a140db19006d89be07d64fc9563e75206feac0a7b044873",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.41 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-004",
+    "price": 4500,
+    "sequence": 4,
+    "imageUrl": "/suits/4500/EH-4500-004.jpeg",
+    "createdAt": "2026-11-12T00:40:43.000Z",
+    "sha256": "203cae8e10d018c885016fe5945fe5b027ec282969fbae711522cef65b28fa03",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.43 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-005",
+    "price": 4500,
+    "sequence": 5,
+    "imageUrl": "/suits/4500/EH-4500-005.jpeg",
+    "createdAt": "2026-11-12T00:40:44.000Z",
+    "sha256": "810253dc29d3c2974af02dfcc5faaf23efd2820d9a64f646b75b4e899387873e",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.44 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-006",
+    "price": 4500,
+    "sequence": 6,
+    "imageUrl": "/suits/4500/EH-4500-006.jpeg",
+    "createdAt": "2026-11-12T00:40:45.000Z",
+    "sha256": "b33fbfa05448c51f5f6c41e93d9b14de717dbeb1bae2fec840175080be9442c9",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.45 AM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-007",
+    "price": 4500,
+    "sequence": 7,
+    "imageUrl": "/suits/4500/EH-4500-007.jpeg",
+    "createdAt": "2026-11-12T00:40:45.000Z",
+    "sha256": "39f2aa2ee4d7e0bb69e14dd622119a3aeafdd8765307715c1ca663cff87cfe4f",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.45 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-008",
+    "price": 4500,
+    "sequence": 8,
+    "imageUrl": "/suits/4500/EH-4500-008.jpeg",
+    "createdAt": "2026-11-12T00:40:46.000Z",
+    "sha256": "17cda8a29b87c1079ade38ce25ff79fffd94199736c47aa3a6ee3503df397d19",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.46 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-009",
+    "price": 4500,
+    "sequence": 9,
+    "imageUrl": "/suits/4500/EH-4500-009.jpeg",
+    "createdAt": "2026-11-12T00:40:47.000Z",
+    "sha256": "6f9fb891105a8c61d3339e5ff7375a7aac8a5459b09d137b17668e3110cbdb1c",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.47 AM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-010",
+    "price": 4500,
+    "sequence": 10,
+    "imageUrl": "/suits/4500/EH-4500-010.jpeg",
+    "createdAt": "2026-11-12T00:40:47.000Z",
+    "sha256": "6ce18366d1acc3499d103a849f7ea1e81fed2fe13da3fa2caf02fab9af0293f3",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.47 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-011",
+    "price": 4500,
+    "sequence": 11,
+    "imageUrl": "/suits/4500/EH-4500-011.jpeg",
+    "createdAt": "2026-11-12T00:40:49.000Z",
+    "sha256": "3ae6d3ae125d7f836b43401a85d58677c39144b2947771ead202001acd448d26",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.49 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-012",
+    "price": 4500,
+    "sequence": 12,
+    "imageUrl": "/suits/4500/EH-4500-012.jpeg",
+    "createdAt": "2026-11-12T00:40:51.000Z",
+    "sha256": "8166aee8e4e8e1e75dea17fd3d51ed5c236c4314601b5033d42020d7cb781248",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.51 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-013",
+    "price": 4500,
+    "sequence": 13,
+    "imageUrl": "/suits/4500/EH-4500-013.jpeg",
+    "createdAt": "2026-11-12T00:40:52.000Z",
+    "sha256": "2c9f4f7dee96211451202ee01862bf20735d3280a277f7b4e51d175f143b1e3e",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.52 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1086,
+      "height": 1448
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-014",
+    "price": 4500,
+    "sequence": 14,
+    "imageUrl": "/suits/4500/EH-4500-014.jpeg",
+    "createdAt": "2026-11-12T00:40:53.000Z",
+    "sha256": "1e12cf71b6f221fd1aee16e688a2bda6f321ac4669c03d4b9604a54f8cb7e24c",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.53 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1288,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-015",
+    "price": 4500,
+    "sequence": 15,
+    "imageUrl": "/suits/4500/EH-4500-015.jpeg",
+    "createdAt": "2026-11-12T00:40:54.000Z",
+    "sha256": "c9e05982bb0b8aba6843c90296a71446e33c726660dc6ab2f333b51751cc412b",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.54 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1200,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-016",
+    "price": 4500,
+    "sequence": 16,
+    "imageUrl": "/suits/4500/EH-4500-016.jpeg",
+    "createdAt": "2026-11-12T00:40:55.000Z",
+    "sha256": "e462a0db76ec9bd3c59263f5b63a52f4392151aebbe816dd206b1faf4376aed4",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.55 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-017",
+    "price": 4500,
+    "sequence": 17,
+    "imageUrl": "/suits/4500/EH-4500-017.jpeg",
+    "createdAt": "2026-11-12T00:40:56.000Z",
+    "sha256": "ec09ba7869e72f9c2fdff3ca685f5de2e47e3cf36e5e46b5cf957e8313bc2f19",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.56 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1288,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-018",
+    "price": 4500,
+    "sequence": 18,
+    "imageUrl": "/suits/4500/EH-4500-018.jpeg",
+    "createdAt": "2026-11-12T00:40:57.000Z",
+    "sha256": "75c85d067e08e12c430b82e9d67aa6e011ca360e04e4093d5917bc2472cff470",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.57 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1287,
+      "height": 1600
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-019",
+    "price": 4500,
+    "sequence": 19,
+    "imageUrl": "/suits/4500/EH-4500-019.jpeg",
+    "createdAt": "2026-11-12T00:40:58.000Z",
+    "sha256": "84ef293687f74b53591cb3b4282487ec68fa9ed03379249034d71a91497c4ae3",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.58 AM (1).jpeg"
+    ],
+    "dimensions": {
+      "width": 1030,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-020",
+    "price": 4500,
+    "sequence": 20,
+    "imageUrl": "/suits/4500/EH-4500-020.jpeg",
+    "createdAt": "2026-11-12T00:40:58.000Z",
+    "sha256": "e97f7cf6567db9063e7e19fcdc25aeb704f48db132c4b963e6b4883eb8fc97d6",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.58 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-021",
+    "price": 4500,
+    "sequence": 21,
+    "imageUrl": "/suits/4500/EH-4500-021.jpeg",
+    "createdAt": "2026-11-12T00:40:59.000Z",
+    "sha256": "8349d96d48f611102f72a7d4c4c56f4ba2351feca2f8e77357f7246c83cbca57",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.40.59 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  },
+  {
+    "sku": "EH-4500-022",
+    "price": 4500,
+    "sequence": 22,
+    "imageUrl": "/suits/4500/EH-4500-022.jpeg",
+    "createdAt": "2026-11-12T00:41:00.000Z",
+    "sha256": "372ba11d57f89f5ad34f318da003c04e18385bcc869ebe9673d960f22b1971aa",
+    "sourceFiles": [
+      "Suits/4500/WhatsApp Image 2026-11-12 at 12.41.00 AM.jpeg"
+    ],
+    "dimensions": {
+      "width": 1029,
+      "height": 1280
+    },
+    "galleryReviewRequired": true,
+    "galleryReviewNote": "Other distinct photographs were not automatically linked to this SKU; confirm gallery grouping manually."
+  }
+]

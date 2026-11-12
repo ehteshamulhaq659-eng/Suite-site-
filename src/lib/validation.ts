@@ -13,7 +13,7 @@ export const productInputSchema = z.object({
   collection: z.string().trim().max(120).default(""),
   fabric: z.string().trim().max(120).default(""),
   colour: z.string().trim().max(80).default(""),
-  pieces: z.number().int().min(1).max(10).default(3),
+  pieces: z.number().int().min(0).max(10).default(0),
   price: z.number().int().min(1).max(10_000_000),
   compareAtPrice: z.number().int().min(1).max(10_000_000).nullable().optional(),
   stock: z.number().int().min(0).max(1_000_000).default(0),

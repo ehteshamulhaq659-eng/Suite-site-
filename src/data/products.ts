@@ -1,3 +1,5 @@
+import suitImageManifest from "./suit-image-manifest.json";
+
 export type ProductStatus = "active" | "draft" | "archived";
 
 export type Product = {
@@ -22,11 +24,10 @@ export type Product = {
   updatedAt: string;
 };
 
-// Prices are taken from the three price folders in the supplied Suits.zip.
-// Stock is intentionally zero until E&H confirms physical quantities.
+// Retain the original starter catalogue for reference; only verified supplied products are seeded.
 const now = "2026-11-11T12:00:00.000Z";
 
-export const seedProducts: Product[] = [
+export const starterProducts: Product[] = [
   {
     id: "ehf-seed-001", name: "Emerald Bloom", slug: "emerald-bloom", sku: "EHF-2450-001",
     description: "A deep emerald suit with delicate light embroidery and a graceful, polished look. Contact E&H for fabric composition and current availability.",
@@ -157,13 +158,44 @@ export const seedProducts: Product[] = [
   },
 ];
 
+export const seedProducts: Product[] = suitImageManifest.map((photo) => ({
+  id: `ehf-${photo.sku.toLowerCase()}`,
+  name: `Style ${String(photo.sequence).padStart(2, "0")}`,
+  slug: photo.sku.toLowerCase(),
+  sku: photo.sku,
+  description: "Product details and current availability are being confirmed. Contact E&H Fabrics before placing an order.",
+  category: `PKR ${photo.price.toLocaleString("en-PK")}`,
+  collection: `Rs. ${photo.price.toLocaleString("en-PK")} Collection`,
+  fabric: "",
+  colour: "",
+  pieces: 0,
+  price: photo.price,
+  compareAtPrice: null,
+  stock: 0,
+  imageUrls: [photo.imageUrl],
+  tags: ["ladies' suit", `PKR ${photo.price}`],
+  status: "active",
+  isFeatured: photo.sequence <= 2,
+  createdAt: photo.createdAt,
+  updatedAt: photo.createdAt,
+}));
+
 export const seedCategories = [
-  { id: "ehf-category-embroidered", name: "Embroidered suits", slug: "embroidered-suits", description: "Suits featuring decorative embroidery and detailed finishing.", sortOrder: 1, isActive: true },
-  { id: "ehf-category-printed", name: "Printed suits", slug: "printed-suits", description: "Colourful printed suit designs and coordinated fabric sets.", sortOrder: 2, isActive: true },
-  { id: "ehf-category-premium", name: "Premium suits", slug: "premium-suits", description: "Selected premium designs from the E&H collection.", sortOrder: 3, isActive: true },
+  { id: "ehf-category-2800", name: "PKR 2,800", slug: "pkr-2800", description: "Products from the Rs. 2,800 price folder.", sortOrder: 1, isActive: true },
+  { id: "ehf-category-3000", name: "PKR 3,000", slug: "pkr-3000", description: "Products from the Rs. 3,000 price folder.", sortOrder: 2, isActive: true },
+  { id: "ehf-category-3500", name: "PKR 3,500", slug: "pkr-3500", description: "Products from the Rs. 3,500 price folder.", sortOrder: 3, isActive: true },
+  { id: "ehf-category-4500", name: "PKR 4,500", slug: "pkr-4500", description: "Products from the Rs. 4,500 price folder.", sortOrder: 4, isActive: true },
 ];
 
-export const seedCollections = [
-  { id: "ehf-collection-signature", name: "The Signature Edit", slug: "the-signature-edit", description: "A curated selection of E&H signature suit designs.", coverImage: "/products/suit-01.webp", isFeatured: true, isActive: true },
-  { id: "ehf-collection-premium", name: "The Premium Edit", slug: "the-premium-edit", description: "Elevated colours and detailed suit designs.", coverImage: "/products/suit-13.webp", isFeatured: true, isActive: true },
-];
+export const seedCollections = [2800, 3000, 3500, 4500].map((price) => {
+  const formattedPrice = price.toLocaleString("en-PK");
+  return {
+    id: `ehf-collection-${price}`,
+    name: `Rs. ${formattedPrice} Collection`,
+    slug: `rs-${price}-collection`,
+    description: `Ladies' suits listed at Rs. ${formattedPrice}.`,
+    coverImage: suitImageManifest.find((photo) => photo.price === price)?.imageUrl ?? "",
+    isFeatured: true,
+    isActive: true,
+  };
+});
