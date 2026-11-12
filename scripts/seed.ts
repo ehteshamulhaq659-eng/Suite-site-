@@ -36,6 +36,21 @@ if (cloudinaryConfigured) {
 const pool = new Pool({ connectionString, max: 3, connectionTimeoutMillis: 10_000 });
 const db = drizzle({ client: pool, schema });
 
+function getCloudinaryHttpCode(error: unknown): number | undefined {
+  if (typeof error !== "object" || error === null) return undefined;
+  if ("http_code" in error && typeof error.http_code === "number") return error.http_code;
+  if ("error" in error) {
+    const nestedError = error.error;
+    if (
+      typeof nestedError === "object" &&
+      nestedError !== null &&
+      "http_code" in nestedError &&
+      typeof nestedError.http_code === "number"
+    ) return nestedError.http_code;
+  }
+  return undefined;
+}
+
 async function resolveImageUrl(url: string): Promise<string> {
   if (!url.startsWith("/suits/") && !url.startsWith("/products/")) return url;
   const localPath = path.join(process.cwd(), "public", url.replace(/^\//, ""));
@@ -46,14 +61,7 @@ async function resolveImageUrl(url: string): Promise<string> {
     const existing = await cloudinary.api.resource(publicId, { resource_type: "image" });
     return existing.secure_url;
   } catch (error) {
-    if (
-      typeof error !== "object" ||
-      error === null ||
-      !("http_code" in error) ||
-      error.http_code !== 404
-    ) {
-      throw error;
-    }
+    if (getCloudinaryHttpCode(error) !== 404) throw error;
   }
   const uploaded = await cloudinary.uploader.upload(localPath, {
     public_id: publicId,
